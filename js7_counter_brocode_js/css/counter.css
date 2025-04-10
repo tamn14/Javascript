@@ -1,0 +1,28 @@
+#lable {
+    display:  block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.BtnContainer {
+    text-align: center;
+}
+
+.Btn {
+    padding: 10px 20px ;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(165, 177, 244);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.Btn:hover{
+    background-color: rgb(68, 68, 236);
+}
+
+
+
